@@ -6,7 +6,7 @@ const express = require("express"),
   expressSanitizer = require("express-sanitizer"),
   bodyParser = require("body-parser"),
   methodOverride = require("method-override");
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 80;
 
 //APP CONFIG.
 
