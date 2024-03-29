@@ -13,9 +13,3 @@ Welcome to blog website! This platform is dedicated to sharing thoughts, experie
 - **Frontend:** HTML, CSS, JavaScript, EJS
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
-
-## About
-This section provides information about the author(s) of the blog and their interests.
-
-
-
